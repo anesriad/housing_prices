@@ -4,4 +4,4 @@ This project is related to housing prices in Boston (USA). The dataset itself is
 
 For this project, the machine learning model used is XGBoost (XGBRegressor) as a regression model. It's a model based on complex modelling of decision trees and is widely used in machine learning these days.
 
-#### PS: The dataset is uploaded from sklearn library (you'll find it in the code)
+#### PS: The dataset is uploaded from 'sklearn' library (you'll find it in the code)
