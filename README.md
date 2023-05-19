@@ -1,4 +1,4 @@
-# housing prices dataset
+# housing prices machine learning
 
 This project is related to housing prices in Boston (USA). The dataset itself is taking from sklearn library and is available for everyone to use. The prediction of housing prices can take any continuous value and therefore the method chosen for this project will be regression in a supervised machine learning approach.
 
